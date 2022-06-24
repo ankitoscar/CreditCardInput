@@ -10,8 +10,12 @@
   "repository": {},
   "license": "ISC",
   "dependencies": {
-    "hypium": "^1.0.0",
     "@ohos/hvigor": "1.0.6",
-    "@ohos/hvigor-ohos-plugin": "1.0.6"
+    "@ohos/hvigor-ohos-plugin": "1.0.6",
+    "card-validator": "^8.1.1",
+    "hypium": "^1.0.0",
+    "lodash": "^4.17.21",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0"
   }
 }
